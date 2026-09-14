@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alexandre Ramos
+### Opa, eae tudo certo? Meu nome é Alexandre, mas me chamam de Alex
 
 - Estudando: C, Java, HTML CSS, JavaScript e Banco de dados
 
